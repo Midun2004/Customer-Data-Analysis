@@ -61,7 +61,7 @@ The objective of this project is to understand customer behavior, identify high-
 ---
 
 ## 👥 Team Members
-•⁠  ⁠Ramesh Kumar  
+•⁠  ⁠RameshKumar V  
 •⁠  ⁠Monika Ramesh  
 •⁠  ⁠Midun Rajasekar R M  
 
